@@ -2,6 +2,8 @@
 A modern, responsive, glassmorphism-inspired Login & Signup authentication interface built using pure HTML and CSS. Featuring dynamic dark aesthetic overlays, crisp typography, and navigation transitions for a sleek user experience.
 
 🎨 UI Preview
+![CSS Auth Navigation Form Preview](login_preview.jpg)
+
 
 The design features:
 
