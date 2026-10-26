@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 GWU CHINEDU
+Copyright (c) 2026 UGWU CHINEDU
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
